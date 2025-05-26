@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="name_array">
+        <item>Test reading 1</item>
+        <item>Test reading 2</item>
+        <item>Test reading 3</item>
+        <item>Test reading 4</item>
+        <item>Test reading 5</item>
+        <item>Test reading 6</item>
+    </string-array>
+
+
+    <string-array name="kwh_array">
+        <item>00084</item>
+        <item>00090</item>
+        <item>00097</item>
+        <item>00097</item>
+        <item>00100</item>
+        <item>00102</item>
+    </string-array>
+
+    <string-array name="date_array">
+        <item>ALL</item>
+        <item>JANUARY</item>
+        <item>FEBRUARY</item>
+        <item>MARCH</item>
+        <item>APRIL</item>
+        <item>MAY</item>
+        <item>JUNE</item>
+        <item>JULY</item>
+        <item>AUGUST</item>
+        <item>SEPTEMBER</item>
+        <item>OCTOBER</item>
+        <item>NOVEMBER</item>
+        <item>DECEMBER</item>
+    </string-array>
+</resources>

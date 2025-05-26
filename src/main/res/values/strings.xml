@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ResitApp</string>
+    <string name="energy_app_title">Energy App</string>
+    <string name="nav_drawer_menu">Nav drawer menu</string>
+    <string name="home">Home</string>
+    <string name="readings">Readings</string>
+    <string name="home_picture_image">Home picture image\n</string>
+    <string name="welcome">Welcome</string>
+    <string name="featured_cat_title">Featured cat</string>
+    <string name="featured_cat_description">Featured reading</string>
+    <string name="dropdown_icon">Dropdown_icon</string>
+    <string name="remove_reading">Remove reading</string>
+    <string name="add_reading">Add reading</string>
+    <string name="goBack">Back</string>
+    <string name="date">Date of reading: %1$s</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="pickDate">Select a date</string>
+    <string name="cat_name">Name:</string>
+    <string name="reading_name">Name:</string>
+    <string name="reading_kwh">Kwh:</string>
+    <string name="reading_ppkwh">Price per kWh (£):</string>
+    <string name="app_icon">App icon</string>
+    <string name="featured_reading_title">Featured reading:</string>
+
+    <string-array name="add_reading">Add reading</string-array>
+</resources>
